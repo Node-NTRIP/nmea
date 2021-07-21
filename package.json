@@ -1,6 +1,6 @@
 {
   "name": "@gnss/nmea",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "NMEA-0183 decoder/encoder",
   "main": "build/index.js",
   "types": "build/index.d.ts",
