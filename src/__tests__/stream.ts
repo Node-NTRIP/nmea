@@ -18,7 +18,6 @@
 
 import {NmeaDecodeTransformStream, NmeaEncodeTransformStream} from "../stream";
 import {NmeaMessage, NmeaMessageUnknown, NmeaTransport} from "../nmea";
-import construct = Reflect.construct;
 import {NmeaTalker} from "../talkers";
 import {NmeaMessageGga, NmeaMessageGll, NmeaMessageGns, NmeaMessageGst, NmeaMessageVtg} from "../messages";
 

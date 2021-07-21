@@ -17,10 +17,10 @@
  */
 
 import {Sentence, NmeaMessage} from '../nmea';
-import {NmeaDatum, NmeaNavSystem} from '../enums';
+import {NmeaDatum} from '../enums';
 import {NmeaSentenceType} from '../mnemonics';
 
-import {Float, Int, Lat, Lng, Str} from '../decode-encode';
+import {Float, Lat, Lng, Str} from '../decode-encode';
 
 /**
  * DTM - Datum Reference
